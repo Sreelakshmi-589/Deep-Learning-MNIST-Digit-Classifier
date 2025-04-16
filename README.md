@@ -1,2 +1,3 @@
 # Deep-Learning-MNIST-Digit-Classifier
 The objective of the classic machine learning and computer vision problem of handwritten digit recognition is to categorize numerals from 0 to 9 from pictures of handwritten numbers.
+A popular benchmark in this area, the MNIST dataset comprises 70,000 grayscale pictures of digits, each measuring 28 x 28 pixels (60,000 for training and 10,000 for testing). The goal of this project is to design and implement a Convolution Neural Network (CNN) classifier with high accuracy on the MNIST dataset. To build, train, and assess our model, Python and the Keras deep learning toolkit (hosted on TensorFlow) are being used. This model successfully meets the performance criterion with an accuracy of above 99%.
